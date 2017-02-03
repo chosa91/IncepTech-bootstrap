@@ -39,7 +39,7 @@ class FileTableViewController : UITableViewController
             "isBlue" : false
         ], [
             "filename" : "DSC119.jpg",
-            "isFolder" : true,
+            "isFolder" : false,
             "modDate" : "2014/06/01",
             "fileType" : FileType.image,
             "isOrange" : true,

@@ -73,11 +73,11 @@ class FileCell: UITableViewCell
         {
         case (true, true):
             topLeftBackgroundColor = UIColor.orange
-            bottomLeftBackgroundColor = UIColor.cyan
+            bottomLeftBackgroundColor = UIColor.blue
             break
         case (false, true):
-            topLeftBackgroundColor = UIColor.cyan
-            bottomLeftBackgroundColor = UIColor.cyan
+            topLeftBackgroundColor = UIColor.blue
+            bottomLeftBackgroundColor = UIColor.blue
             break
         case (true, false):
             topLeftBackgroundColor = UIColor.orange
